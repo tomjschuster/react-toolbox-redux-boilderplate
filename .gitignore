@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+
+.DS_STORE
+*/DS_STORE
+*.swp
+
+public-dev
+public/main.css.map
